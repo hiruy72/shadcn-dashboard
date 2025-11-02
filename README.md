@@ -21,7 +21,7 @@ This setup includes a collapsible sidebar, a dynamic navbar with theme toggling,
 
 | Library | Purpose |
 |----------|----------|
-| [Next.js 14+](https://nextjs.org/) | React framework |
+| [Next.js 16](https://nextjs.org/) | React framework |
 | [shadcn/ui](https://ui.shadcn.com/) | UI component library |
 | [lucide-react](https://lucide.dev/) | Icons |
 | [next-themes](https://github.com/pacocoursey/next-themes) | Theme switching |
