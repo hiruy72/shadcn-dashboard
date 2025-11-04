@@ -28,3 +28,38 @@ This setup includes a collapsible sidebar, a dynamic navbar with theme toggling,
 | [TailwindCSS](https://tailwindcss.com/) | Styling |
 
 ---
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/hiruy72/shadcn-dashboard.git
+```
+2.Install dependencies:
+```bash
+npm install
+```
+3. Start the development server:
+```bash
+npm run dev
+```
+---
+## Usage
+
+Add, remove, or customize components in the components folder.
+Configure routes in the app folder.
+Update styles in the globals.css file.
+---
+## Contributing
+
+Fork the repository.
+
+Create a new branch: ```bash git checkout -b feature/your-feature. ```
+
+Make your changes.
+
+Commit your changes: ```bash git commit -m "Add new feature". ```
+
+Push to the branch:  ```bash git push origin feature/your-feature. ```
+
+Open a Pull Request.
